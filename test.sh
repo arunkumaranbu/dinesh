@@ -1,1 +1,1 @@
-rsync -av file1 root@10.93.10.10:/tmp/
+rsync -av file1 root@10.93.20.20:/tmp/
